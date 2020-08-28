@@ -2,8 +2,6 @@
 new-file.txt
 #anther-file.txt
 
-
-
 #Ignore all files in bin directrory
 bin/
 
