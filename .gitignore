@@ -1,1 +1,12 @@
+#Ignore single new-file.txt
 new-file.txt
+
+
+
+#Ignore all files in bin directrory
+bin/
+
+
+
+#Ignore all .tempextenstion
+*.temp
